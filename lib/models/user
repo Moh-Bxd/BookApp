@@ -1,0 +1,45 @@
+class User {
+  String name;
+  String email;
+  String password;
+  String resetLink;
+  String address;
+  String profilePic;
+  List<CartItem> cart;
+  List<Book> favorites;
+  String bio;
+  String gender;
+  String phone;
+  List<String> books;
+  List<String> chats;
+
+  User({
+    this.name,
+    this.email,
+    this.password,
+    this.resetLink,
+    this.address,
+    this.profilePic,
+    this.cart,
+    this.favorites,
+    this.bio,
+    this.gender,
+    this.phone,
+    this.books,
+    this.chats,
+  });
+}
+
+class CartItem {
+  Book book;
+  int quantity;
+
+  CartItem({this.book, this.quantity});
+}
+
+class Book {
+  String id;
+  // Add other properties of the book here
+
+  Book({this.id});
+}

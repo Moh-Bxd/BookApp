@@ -1,0 +1,1 @@
+List<String> chips = ['Fiction', 'Non-fiction', 'Children','Drama', 'Young Adult', 'Science Fiction', 'Fantasy', 'Romance', 'Mystery', 'Thriller', 'Horror', 'Biography', 'History', 'Cooking', 'Travel', 'Poetry', 'Art', 'Self-help', 'Religion', 'Philosophy', 'Other'];
