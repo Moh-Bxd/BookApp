@@ -40,8 +40,9 @@ For more information on Flutter development, check out the [official documentati
 </div>
 
 ### Home Page
-<img src="https://github.com/Moh-Bxd/BookApp/assets/139571310/3ab48978-4247-4f75-858f-cec861d907c4" alt="Book Store Project-16" style="width: 100%; max-width: 800px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);">
-
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/Moh-Bxd/BookApp/assets/139571310/3ab48978-4247-4f75-858f-cec861d907c4" alt="Book Store Project-16" style="width: 250px; margin-right: 20px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);">
+</div>
 
 
 ## Usage
