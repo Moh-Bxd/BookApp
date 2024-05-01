@@ -25,9 +25,19 @@ For more information on Flutter development, check out the [official documentati
 - Donate books to charitable causes.
 
 ## Screenshots
-<img src="https://github.com/Moh-Bxd/BookApp/assets/139571310/532f90c9-e6c6-4637-8540-a700ce7dd07d" alt="Book Store Project-12" style="display: inline-block; width: 250px;">
-<img src="https://github.com/Moh-Bxd/BookApp/assets/139571310/941b8523-cb02-4895-9d8a-2a95b1e14a0e" alt="Book Store Project-11" style="display: inline-block; width: 250px;">
-<img src="https://github.com/Moh-Bxd/BookApp/assets/139571310/8dc86aa3-5522-453f-8c04-ecdbc5fc5286" alt="Book Store Project-10" style="display: inline-block; width: 250px;">
+
+### Agree and Continue Page
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/Moh-Bxd/BookApp/assets/139571310/532f90c9-e6c6-4637-8540-a700ce7dd07d" alt="Book Store Project-12" style="width: 250px; margin-right: 20px;">
+    <img src="https://github.com/Moh-Bxd/BookApp/assets/139571310/941b8523-cb02-4895-9d8a-2a95b1e14a0e" alt="Book Store Project-11" style="width: 250px; margin-right: 20px;">
+    <img src="https://github.com/Moh-Bxd/BookApp/assets/139571310/8dc86aa3-5522-453f-8c04-ecdbc5fc5286" alt="Book Store Project-10" style="width: 250px; margin-right: 20px;">
+</div>
+
+### Authentication Page
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/Moh-Bxd/BookApp/assets/139571310/daf6dc00-147e-4ea2-ab8f-31b3c1d77822" alt="Book Store Project-14" style="width: 250px; margin-right: 20px;">
+    <img src="https://github.com/Moh-Bxd/BookApp/assets/139571310/78df8bc0-7713-4b6c-8551-a01af4483c92" alt="Book Store Project-13" style="width: 250px; margin-right: 20px;">
+</div>
 
 
 
