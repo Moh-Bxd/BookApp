@@ -7,7 +7,7 @@ BookHub is a Flutter application that allows users to discover and explore a wid
 This project is a starting point for a Flutter application. To get started with Flutter development, follow these steps:
 
 1. Install Flutter by following the [official installation guide](https://flutter.dev/docs/get-started/install).
-2. Clone this repository: `git clone https://github.com/your-username/bookhub.git`.
+2. Clone this repository: `git clone https://github.com/Moh-Bxd/BookApp`.
 3. Navigate to the project directory: `cd bookApp`.
 4. Run the app: `flutter run`.
 
