@@ -25,9 +25,7 @@ For more information on Flutter development, check out the [official documentati
 - Donate books to charitable causes.
 
 ## Screenshots
-![Book Store Project-12](https://github.com/Moh-Bxd/BookApp/assets/139571310/532f90c9-e6c6-4637-8540-a700ce7dd07d)
-![Book Store Project-11](https://github.com/Moh-Bxd/BookApp/assets/139571310/941b8523-cb02-4895-9d8a-2a95b1e14a0e)
-![Book Store Project-10](https://github.com/Moh-Bxd/BookApp/assets/139571310/8dc86aa3-5522-453f-8c04-ecdbc5fc5286)
+![Book Store Project-12](https://github.com/Moh-Bxd/BookApp/assets/139571310/532f90c9-e6c6-4637-8540-a700ce7dd07d){:width="200px"} ![Book Store Project-11](https://github.com/Moh-Bxd/BookApp/assets/139571310/941b8523-cb02-4895-9d8a-2a95b1e14a0e){:width="200px"} ![Book Store Project-10](https://github.com/Moh-Bxd/BookApp/assets/139571310/8dc86aa3-5522-453f-8c04-ecdbc5fc5286){:width="200px"}
 
 
 
